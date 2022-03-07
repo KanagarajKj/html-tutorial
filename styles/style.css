@@ -1,0 +1,20 @@
+body{
+background-image:url(https://images.unsplash.com/photo-1631871147817-74e4265d0da4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIyfHduenBMeHMwblFZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60) ;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size:cover;
+
+}
+
+h1,h4{
+color:#E9E5D6 ;
+}
+p{
+  color:#FFC900 ;  
+}
+a{
+    color:#B91646;
+}
+
+
