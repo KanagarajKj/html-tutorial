@@ -1,0 +1,31 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,14,1) 35%, rgba(0,212,255,1) 100%);
+}
+header{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+
+    background-color: gainsboro;
+   background-image: url("https://images.unsplash.com/photo-1646819065916-8d67d47bd9c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+
+
+    
+}
+header h1{
+    font-size: 3.5rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.img-car {
+    position: sticky;
+    position: -webkit-sticky;
+}
